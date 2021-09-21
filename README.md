@@ -10,3 +10,14 @@ Mechanical keyboard switch holder, display, and tester
 - Each switch holder fits next to each other nicely with the alignment nubs.
 - Spaces on each corner to accomodate 6x2mm 3M self adhesive rubber feet for stability, sound profile and feel.
 - Optional IKEA SKÅDIS pegboard compatible clips to allow for wall mounting.
+
+## How to print
+Here are the settings I use to get a great looking print:
+- **Printer:** Prusa i3 MK3S
+- **Print sheet:** Textured steel sheet
+- **Print settings:**
+  - **Layer height:** 0.20mm
+  - **Infill:** 10%
+
+**Note. Your results may vary due to variations in printer quality.**
+I've included the ready-to-print g-code file which is based on the above settings.
