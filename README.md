@@ -37,3 +37,9 @@ Optional [IKEA SKÅDIS](https://www.ikea.com/gb/en/p/skadis-pegboard-combination
 ![SMX-HLDR close-up](./photos/smx-hldr-photo-02.jpg)
 
 ![SMX-HLDR CAD](./photos/smx-hldr-photo-01.jpg)
+
+## Questions? Contact?
+
+Feel free to message me on [Instagram.com/switches.mx](https://www.instagram.com/switches.mx/) or Discord **BOWLER#2802**
+
+If you find this useful and would like to contribute to keep the lights on at [Switches.mx](https://switches.mx) feel free to [PayPal me](https://paypal.me/switchesmx)
