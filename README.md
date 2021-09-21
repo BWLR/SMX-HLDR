@@ -21,6 +21,7 @@ Here are the settings I use to get a great looking print:
   - **Layer height:** 0.20mm
   - **Infill:** 10%
   - **Supports:** No
+- **Orientation:** Print face down
 
 **Note. Your results may vary due to variations in printer quality.**
 I've included the ready-to-print g-code file which is based on the above settings.
