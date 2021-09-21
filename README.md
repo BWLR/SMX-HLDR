@@ -1,5 +1,7 @@
 # SMX-HLDR
-Mechanical keyboard switch holder, display, and tester
+Mechanical keyboard switch holder, display, and tester.
+
+![SMX-HLDR mounted](./photos/smx-hldr-photo-03.jpg)
 
 ## Features
 - Switch holes with side cutouts to showcase both top and bottom of the switch.
@@ -18,6 +20,20 @@ Here are the settings I use to get a great looking print:
 - **Print settings:**
   - **Layer height:** 0.20mm
   - **Infill:** 10%
+  - **Supports:** No
 
 **Note. Your results may vary due to variations in printer quality.**
 I've included the ready-to-print g-code file which is based on the above settings.
+
+## Accessory
+Optional [IKEA SKÅDIS](https://www.ikea.com/gb/en/p/skadis-pegboard-combination-white-s09216595/) pegboard clips to allow for wall mounting.
+
+![IKEA SKÅDIS mount](./photos/smx-hldr-photo-skadis-01.jpg)
+
+![IKEA SKÅDIS CAD](./photos/smx-hldr-photo-skadis-02.jpg)
+
+## More photos
+
+![SMX-HLDR close-up](./photos/smx-hldr-photo-02.jpg)
+
+![SMX-HLDR CAD](./photos/smx-hldr-photo-01.jpg)
